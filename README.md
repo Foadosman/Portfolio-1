@@ -18,5 +18,6 @@ This is a simple portfolio page showcasing three of my projects from the Fron-En
 ![portfolio teaser](images/Portfolio-teaser.png)
 
 ## Live portfolio wesite
+[Visit live site](https://foadosman.github.io/Portfolio-1/)
 
 ## Reflection PDF
