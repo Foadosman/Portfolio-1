@@ -1,14 +1,21 @@
 # Portfolio-1
 
-This is my portfolio for the Front End Developer program. It showcases the following three projects:
+This is a simple portfolio page showcasing three of my projects from the Fron-End Developer course at Noroff.
 
-**RaindyDays**
-**Semester Project 1**
-**Exam Project 1**
+## Content
 
-Each project incudes a thumbnail, short description, Github repo and live demo.
+- A short description of the three projects:
+  - Rainydays - An online store for rain jackets
+  - Semester Project 1 - A museum website
+  - Project Exam 1 - A community blog for gamers
+- Each project has links to the Github repository and a live version
 
-A reflection PDF is included, Highlighting what I learned and what I would improve in each project.
+## Built with
+- HTML
+- CSS
+- Javascript
+
+![portfolio teaser](images/Portfolio-teaser.png)
 
 ## Live portfolio wesite
 
