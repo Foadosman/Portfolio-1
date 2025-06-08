@@ -20,4 +20,5 @@ This is a simple portfolio page showcasing three of my projects from the Fron-En
 ## Live portfolio wesite
 [Visit live site](https://foadosman.github.io/Portfolio-1/)
 
-## Reflection PDF
+## Note
+The footer was removed intentionally to avoid layout issues on smaller screen sizes. This makes the layout cleaner and fully responsive across devices.
