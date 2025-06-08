@@ -2,7 +2,7 @@ const projects = [
     {
         title: "rainydays",
         description: "Online store for rain jackets. Built with HTML and CSS",
-        image: "images/RainyDays_logo.png",
+        image: "images/RainyDays_Logo.png",
         alt: "rainydays Project",
         repo: "https://github.com/NoroffFEU/html-css-course-assignment-Foadosman",
         live: "https://norofffeu.github.io/html-css-course-assignment-Foadosman/"
